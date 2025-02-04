@@ -230,7 +230,7 @@ DIY Projects for Sustainable Living
 
 # YouTube & Google Drive Credentials
 
-Change `client_id` and `client_secret` fields at **configuration.js** file for main Google Account (Account should contains primary youtube channel and google drive)
+Change `clientId` and `clientSecret` fields at **configuration.js** file for main Google Account (Account should contains primary youtube channel and google drive)
 
 # YouTube Account Credentials (For Upload Video with UI)
 You need to create **.env** file with these variables:
